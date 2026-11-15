@@ -1,0 +1,43 @@
+﻿restaurant_id;restaurant_name;state;city;cuisine;price_band;opening_year;seating_capacity;is_active
+1001;Green Bowl;Maharashtra;Mumbai;South Indian;Premium;2022;24;No
+1002;Noodle Street;Maharashtra;Mumbai;Fast Food;Mid-range;2016;36;Yes
+1003;Dosa District;Maharashtra;Mumbai;Cafe;Budget;2023;24;Yes
+1004;Sweet Junction;Maharashtra;Mumbai;Biryani;Premium;2020;24;Yes
+1005;Noodle Street;Maharashtra;Pune;Healthy;Budget;2012;24;Yes
+1006;Dosa District;Maharashtra;Pune;North Indian;Premium;2015;80;Yes
+1007;Sweet Junction;Maharashtra;Pune;Chinese;Mid-range;2020;36;Yes
+1008;Kebab Factory;Karnataka;Bengaluru;North Indian;Budget;2023;80;Yes
+1009;Punjab Grill;Karnataka;Bengaluru;Chinese;Premium;2019;80;Yes
+1010;Cafe Aroma;Karnataka;Bengaluru;Desserts;Mid-range;2012;36;Yes
+1011;Spice Route;Karnataka;Bengaluru;South Indian;Budget;2017;48;Yes
+1012;Punjab Grill;Karnataka;Mysuru;Fast Food;Mid-range;2024;48;Yes
+1013;Cafe Aroma;Karnataka;Mysuru;Cafe;Budget;2018;24;Yes
+1014;Spice Route;Karnataka;Mysuru;Biryani;Premium;2017;80;Yes
+1015;Bombay Bites;Delhi;New Delhi;Cafe;Mid-range;2012;100;Yes
+1016;Royal Thali;Delhi;New Delhi;Biryani;Budget;2013;60;No
+1017;Urban Tandoor;Delhi;New Delhi;Healthy;Premium;2016;100;Yes
+1018;Burger Yard;Delhi;New Delhi;North Indian;Mid-range;2017;80;Yes
+1019;Royal Thali;Telangana;Hyderabad;Chinese;Premium;2013;24;Yes
+1020;Urban Tandoor;Telangana;Hyderabad;Desserts;Mid-range;2024;48;Yes
+1021;Burger Yard;Telangana;Hyderabad;South Indian;Budget;2015;24;Yes
+1022;South Indian Hub;Telangana;Hyderabad;Fast Food;Premium;2019;100;Yes
+1023;Urban Tandoor;Tamil Nadu;Chennai;Cafe;Budget;2014;48;Yes
+1024;Burger Yard;Tamil Nadu;Chennai;Biryani;Premium;2022;48;Yes
+1025;South Indian Hub;Tamil Nadu;Chennai;Healthy;Mid-range;2022;100;No
+1026;Bombay Bites;Tamil Nadu;Chennai;North Indian;Budget;2022;36;Yes
+1027;Burger Yard;Tamil Nadu;Coimbatore;Chinese;Mid-range;2015;36;Yes
+1028;South Indian Hub;Tamil Nadu;Coimbatore;Desserts;Budget;2016;100;Yes
+1029;Bombay Bites;Tamil Nadu;Coimbatore;South Indian;Premium;2015;100;Yes
+1030;Wok Express;West Bengal;Kolkata;Desserts;Mid-range;2024;24;Yes
+1031;Healthy Harvest;West Bengal;Kolkata;South Indian;Budget;2012;48;Yes
+1032;Biryani House;West Bengal;Kolkata;Fast Food;Premium;2013;36;Yes
+1033;Coastal Kitchen;West Bengal;Kolkata;Cafe;Mid-range;2021;100;Yes
+1034;Healthy Harvest;Gujarat;Ahmedabad;Biryani;Premium;2022;60;Yes
+1035;Biryani House;Gujarat;Ahmedabad;Healthy;Mid-range;2022;60;Yes
+1036;Coastal Kitchen;Gujarat;Ahmedabad;North Indian;Budget;2014;36;Yes
+1037;Dessert Lab;Gujarat;Surat;Healthy;Premium;2020;48;Yes
+1038;Green Bowl;Gujarat;Surat;North Indian;Mid-range;2018;80;Yes
+1039;Noodle Street;Gujarat;Surat;Chinese;Budget;2015;36;Yes
+1040;Spice Route;Rajasthan;Jaipur;North Indian;Premium;2013;24;Yes
+1041;Pizza Square;Rajasthan;Jaipur;Chinese;Mid-range;2014;100;Yes
+1042;Kebab Factory;Rajasthan;Jaipur;Desserts;Budget;2022;60;Yes
